@@ -17,6 +17,8 @@ public class App
         met();
         App app = new App();
         App app2=new App();
+        App app3=new App();
+        System.out.println(app3);
         System.out.println(app2.x);
 
     }
